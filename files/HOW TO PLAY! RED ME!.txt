@@ -1,0 +1,26 @@
+W = move UP and Navigate menu
+s = Move Down and navigate menu
+a =  move left
+d = move right
+spacebar = confirm selection (dont use enter, it does nothing)
+ESC = Menu
+numpad 1 = Fast Attack
+numpad 2 = Heavy attack
+Numpad 3 = Magic Fireball   NOTE: only have 2 cast to start. go to a bonfire to replenish casts. get a larger max by leveling up inteligence
+numpad 4 = Healing Magic    NOTE: only have 5 cast to start. go to a bonfire to replenish casts. get a larger max by leveling up faith
+
+Notes:  Str: makes player hit harderwith heavy attack
+        Dex: makes player hit harder with speed attack
+	Speed: makes player get more hist with speed attack
+	Faith: Makes player heal for more health and have more heals
+	Intel: Makes player hit harder with magic and allows them to have more casts
+	Res: Makes player take less damage
+	vit: makes player have more health
+
+
+
+tips: - If you get stuck on a boss try trining against enemies
+      - remember to heal before boss fight
+      - note you can't see enemy health so try to keep you health up. 
+      - bigger enemies have more health
+      - save before a boss so you dont have to redo training
